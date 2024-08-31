@@ -1,2 +1,3 @@
 # Melatonin17
-Melatonin is an untethered jailbreak for iOS 17-20.4. The Melatonin app is sigh... signed at amogus.com (sloow loading times). Melatonin utilizes an exploit called ImFuguingTired. Melatonin is perfect for lazy people because it resprings and reboots your phone whenever it needs to with the power of ChatGPT. Now, download and go to sleep. Melatonin is definitely not malware and does not send your data to China. 經中國政府批准
+Download Melatonin17 with the help of Kali Linux.
+[Tutorial for installation](https://docs.google.com/document/d/1XExISGTMOWrOvvLcDOUWjGDxI7KpI-BRNuFvz4qge84/edit?usp=sharing)
